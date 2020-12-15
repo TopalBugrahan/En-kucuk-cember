@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605121704 source:c:\c\prolab5\main.cpp
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<graphics.h>
+
